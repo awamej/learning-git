@@ -1,4 +1,4 @@
-print("zadanie_2")
+print("zadanie")
 num_list = [2, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 3, 0, 0]
 new_list1 = num_list[1:4] + num_list[5:10] + num_list[-2:]
 print(new_list1)
